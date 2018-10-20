@@ -1,5 +1,8 @@
 ## PageReplacementSimulation
 
+[![PageReplacementSimulation](https://img.shields.io/badge/PageReplacementSimulation-v1.0.0-green.svg)](https://github.com/Yuziquan/PageReplacementSimulation)
+[![license](https://img.shields.io/packagist/l/doctrine/orm.svg)](https://github.com/Yuziquan/PageReplacementSimulation/blob/master/LICENSE)
+
 > 详情移步: https://blog.csdn.net/wuchangi/article/details/80292685
 
 ### 一、项目功能
